@@ -1,6 +1,6 @@
 # 🚗 Automobile Insurance Information System
 
-### ✍️ Authors & Group Members
+### ✍️ Group Members
 *   **Abdullah Omar** (24L-0576)
 *   **Zoha Sarwar** (24L-0536)
 
