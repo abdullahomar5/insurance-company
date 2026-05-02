@@ -103,4 +103,6 @@ We have provided system architecture and user interaction diagrams in the reposi
 ---
 
 ## ✍️ Authors
-Developed as part of a comprehensive C++ programming project. 
+Developed as part of a comprehensive C++ programming project by:
+*   **Abdullah Omar** (24L-0576)
+*   **Zoha Sarwar** (24L-0536)
