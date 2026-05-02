@@ -1,5 +1,11 @@
 # 🚗 Automobile Insurance Information System
 
+### ✍️ Authors & Group Members
+*   **Abdullah Omar** (24L-0576)
+*   **Zoha Sarwar** (24L-0536)
+
+---
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -14,7 +20,6 @@
 - [Getting Started](#-getting-started)
 - [Usage & Login Details](#-usage--login-details)
 - [Documentation](#-documentation)
-- [Authors](#-authors)
 
 ---
 
@@ -99,10 +104,3 @@ Upon starting the application, you'll be greeted with the main menu to select yo
 We have provided system architecture and user interaction diagrams in the repository:
 *   [UML Diagram](UML_24L-0536_24L-0576.drawio.png)
 *   [Use Case Diagram](UseCase_24L-0536_24L-0576.drawio.png)
-
----
-
-## ✍️ Authors
-Developed as part of a comprehensive C++ programming project by:
-*   **Abdullah Omar** (24L-0576)
-*   **Zoha Sarwar** (24L-0536)
